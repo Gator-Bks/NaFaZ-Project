@@ -27,7 +27,7 @@ Tools Yang Dihapus
 
 Note : 
 Bila Ada Bug Pada Script, Silahkan Chat Di WhatsApp Saya.
-WA : 081310662343
+WA : 6281216365763
 
 
 Pembaruan Terakhir :
@@ -64,9 +64,9 @@ Segera Hadir!!!
 
 
 ## Tutorial
-1). <a href="https://bit.ly/3szQaa3" target="_blank">Cara Menjalankan Program NaFaZ-Project</a>
+1). <a href="https://nafaz-id.blogspot.com/2021/07/Cara-Menjalankan-Program-NaFaZ-Project.html" target="_blank">Cara Menjalankan Program NaFaZ-Project</a>
 <br>
-2). <a  href="https://bit.ly/3sxYOpv" target="_blank">Fitur & Fungsi Program NaFaZ-Project</a>
+2). <a  href="https://nafaz-id.blogspot.com/2021/03/Fitur-Dan-Fungsi-Program-NaFaZ-Project.html" target="_blank">Fitur & Fungsi Program NaFaZ-Project</a>
 
 <br>
 
